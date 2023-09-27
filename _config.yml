@@ -14,7 +14,7 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "Revierplanung - Modul: Fillingfunction - Behälterhistorie zur besseren Vorhersage und Einsparung "e
+title:       "Revierplanung - Modul: Fillingfunction - Behälterhistorie zur besseren Vorhersage und Einsparung "
 keywords:    "Revierplanung, Tourenplanung, Fillingfunction, Predictive Analytics, Enstorgung, Füllstandshistorie, Vorhersage, Abholrhythmus, Leerungsrhythmus"
 description: "Revier und Tourenplanungs - Modul Fillingfunction: Service - Vorhersage auf BAsais von historischen Daten"
 source_link: "https://softwareengel.github.io/Revierplanung-Tourenplanung-Entsorgungslogistik/"
