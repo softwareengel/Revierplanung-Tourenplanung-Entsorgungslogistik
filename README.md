@@ -1,3 +1,18 @@
+
+
+# Docu
+
+Live Site : <https://softwareengel.github.io/Revierplanung-Tourenplanung-Entsorgungslogistik/>
+
+## Font Awsome 
+<https://fontawesome.com/v4/examples/>
+Icons: https://fontawesome.com/v4/icons/
+https://fontawesome.com/v4/cheatsheet/
+
+
+
+
+
 Fancy jekyll powered single page site
 ======================
 
